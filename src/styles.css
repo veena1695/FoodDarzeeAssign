@@ -1,0 +1,31 @@
+/* You can add global styles to this file, and also import other style files */
+.btn-outline {
+    color: black;
+    background-color: #FCA001;
+    font-size: 16px;
+  }
+
+  .btn-round-lg{
+    border-radius: 35.5px;
+    width: 150px;
+    align-items: center;
+    }
+
+.btn-outline:hover,
+.btn-outline:active,
+.btn-outline:focus,
+.btn-outline.active {
+  background: #362E3D;
+  color: #ffffff;
+  border-color: #FCA001;
+  
+}
+
+.navbar{
+    font-weight:500;
+}
+
+.card-blog{
+    font-family: 'Josefin Sans', sans-serif;
+}
+

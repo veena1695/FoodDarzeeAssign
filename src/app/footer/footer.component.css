@@ -1,0 +1,20 @@
+.footer{
+    padding-top: 3rem;
+    background-color: #362E3D;
+}
+
+.footer_box{
+    padding: 5rem 0;
+}
+
+.footer .footer-menu ul li a,
+.footer p,
+.footer ul li{
+    color: white;
+    list-style: none;
+}
+.footer-menu ul li a{
+    font-size: 0.9rem;
+    line-height: 2rem;
+    
+}
