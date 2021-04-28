@@ -26,10 +26,16 @@
     left: 45%;
 }
 
+.custButton {
+    position: absolute;
+    top: 44%;
+    left: 45%;
+}
+
 .mainImg{
     position: relative;
     top:10%;
-    left: 0%;
+    left: 0%
 }
 
 .imgBox{
